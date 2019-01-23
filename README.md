@@ -2,7 +2,7 @@
 
 1) git clone [Repository]
 2) cd [Repository-Directory]
-you need to go to project's main directory which contains package.json file
+  you need to go to project's main directory which contains package.json file
 3) npm install
 4) npm start
 
